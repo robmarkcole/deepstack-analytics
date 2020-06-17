@@ -1,0 +1,3 @@
+jupyterlab
+papermill
+deepstack-python==0.6

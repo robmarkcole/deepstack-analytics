@@ -3,6 +3,14 @@ Analytics with deepstack.
 
 A collection of parameterizable Jupyter notebooks (via [Papermill](https://papermill.readthedocs.io/en/latest/)) for performing analytics with Deepstack. Integration to a pipeline via Airflow, and optional isolation using Docker
 
+## Development
+```
+python3.7 -m venv venv
+venv/bin/activate
+pip install -r requirements.txt
+venv/bin/jupyter lab
+```
+
 ## References
 * [Airflow papermill docs](https://airflow.readthedocs.io/en/stable/howto/operator/papermill.html)
 * [airlow doceker operator](https://airflow.apache.org/docs/stable/_api/airflow/operators/docker_operator/index.html)
