@@ -1,0 +1,2 @@
+## Images
+These folders of images are for use by the scripts in example notebooks. To keep life simple each image must have a unique name, be of formate .jpg, and return at least 1 result for each deepstack endpoint. 
