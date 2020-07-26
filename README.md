@@ -6,7 +6,7 @@ A collection of parameterizable Jupyter notebooks (via [Papermill](https://paper
 ## Development
 ```
 python3.7 -m venv venv
-venv/bin/activate
+source venv/bin/activate
 pip install -r requirements.txt
 venv/bin/jupyter lab
 ```
