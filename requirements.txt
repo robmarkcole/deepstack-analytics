@@ -4,3 +4,4 @@ deepstack-python==0.6
 pillow
 pandas
 matplotlib
+opencv-python
