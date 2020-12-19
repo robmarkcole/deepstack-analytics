@@ -11,3 +11,4 @@ lib64
 venv
 .ipynb_checkpoints*
 tmp/*
+*.pyc
