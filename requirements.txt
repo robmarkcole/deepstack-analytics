@@ -1,6 +1,6 @@
 jupyterlab
 papermill
-deepstack-python==0.6
+deepstack-python==0.8
 pillow
 pandas
 matplotlib
